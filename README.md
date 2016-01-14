@@ -1,5 +1,4 @@
 # Game-Project
-Game written in C# using Microsofts' XNA Game Studio framework
 
 Game in C# using Microsoft XNA Game Studio framework.
 
